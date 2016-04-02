@@ -1,6 +1,8 @@
 # trivelle
 
-Progetto per condividere il materiale creato informandomi circa il referendum del 17 Aprile 2016 (https://it.wikipedia.org/wiki/Referendum_abrogativo_del_2016_in_Italia). Ho solo messo insieme in qualche giorno il materiale di diverse fonti (Ministero dello Sviluppo Economico e Legambiente), ci possono essere errori, con buona volontà si possono ottenere risultati ben migliori di questo. Se qualcuno vuole collaborare GitHub è aperto a tutti.
+Progetto per condividere il materiale creato informandomi circa il referendum del 17 Aprile 2016 (https://it.wikipedia.org/wiki/Referendum_abrogativo_del_2016_in_Italia). Ho solo messo insieme in qualche giorno il materiale di diverse fonti (Ministero dello Sviluppo Economico e Legambiente), ci possono essere errori, con buona volontà si possono ottenere risultati ben migliori di questo. Se qualcuno vuole collaborare GitHub è aperto a tutti. 
+
+Il materiale è accessibile alla pagina http://ecosicresci.github.io/trivelle/
 
 Il progetto contiene:
 - mappa dei permessi di ricerca [1]
