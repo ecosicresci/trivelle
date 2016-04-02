@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Concessioni di coltivazione</name>
+<Style id="poligoni">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://unmig.mise.gov.it/unmig/immagini/dot.png</href>
+</Icon>
+<hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
+</IconStyle>
+<LineStyle>
+<color>4cffffff</color>
+</LineStyle>
+<PolyStyle>
+<color>4c0000ff</color>
+</PolyStyle>
+</Style>
+<Folder>
+<name>Concessioni di coltivazione al 31/01/2016</name>
+<Placemark>
+<name>A.C  1.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=956' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.5307,44.545,0 12.6785,44.3587,0 12.5407,44.3033,0 12.5098,44.3983,0 12.5555,44.3405,0 12.626,44.3692,0 12.5715,44.4382,0 12.509,44.4128,0 12.4767,44.5197,0 12.5307,44.545,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>A.C  2.AS</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=958' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.6333,44.45,0 12.7,44.45,0 12.7,44.4,0 12.7333,44.4,0 12.7333,44.3833,0 12.75,44.3833,0 12.75,44.3667,0 12.6715,44.3667,0 12.619,44.4333,0 12.6333,44.4333,0 12.6333,44.45,0 12.6333,44.45,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>A.C  3.AS</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=959' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.4783,44.5833,0 12.5,44.5833,0 12.5,44.5667,0 12.5333,44.5667,0 12.5333,44.55,0 12.55,44.55,0 12.55,44.52,0 12.5307,44.5442,0 12.4782,44.5205,0 12.4745,44.5333,0 12.4783,44.5833,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>A.C  4.AS</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=960' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.6667,44.3538,0 12.6667,44.3182,0 12.6218,44.3,0 12.5833,44.3,0 12.5833,44.3205,0 12.6667,44.3538,0 12.6667,44.3538,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>A.C  5.AV</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=964' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.7333,44.2468,0 12.7333,44.2333,0 12.75,44.2333,0 12.75,44.2167,0 12.7833,44.2167,0 12.7833,44.2,0 12.7167,44.2,0 12.7167,44.2167,0 12.7,44.2167,0 12.7,44.2333,0 12.7333,44.2468,0 12.7333,44.2468,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+<Placemark>
+<name>A.C  8.ME</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=970' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.6667,44.2308,0 12.672,44.222,0 12.7,44.2333,0 12.7,44.2167,0 12.7167,44.2167,0 12.7167,44.2,0 12.7833,44.2,0 12.7833,44.1732,0 12.7,44.1333,0 12.7,44.1367,0 12.73,44.155,0 12.7,44.1792,0 12.6333,44.2167,0 12.6667,44.2167,0 12.6667,44.2308,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>A.C  9.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=978' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.5667,45.2167,0 12.7333,45.2167,0 12.7333,45.1667,0 12.6833,45.1667,0 12.6833,45.15,0 12.6667,45.15,0 12.6667,45.1333,0 12.65,45.1333,0 12.65,45.1167,0 12.6167,45.1167,0 12.6167,45.1058,0 12.5233,45.1833,0 12.55,45.1833,0 12.55,45.2,0 12.5667,45.2,0 12.5667,45.2167,0 12.5667,45.2167,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+
+
+
+
+<Placemark>
+<name>A.C 17.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=1000' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.8167,44.1908,0 12.8167,44.1833,0 12.8333,44.1833,0 12.8333,44.1333,0 12.9,44.1333,0 12.9,44.1167,0 12.9333,44.1167,0 12.9333,44.1,0 12.9167,44.1,0 12.9167,44.0667,0 12.7167,44.0667,0 12.7167,44.1,0 12.7333,44.1,0 12.7333,44.1167,0 12.7167,44.1167,0 12.7167,44.1333,0 12.7,44.1333,0 12.8167,44.1908,0 12.8167,44.1908,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+<Placemark>
+<name>A.C 21.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=1006' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.6715,44.3667,0 12.7833,44.3667,0 12.7833,44.35,0 12.8,44.35,0 12.8,44.2667,0 12.75,44.2667,0 12.75,44.25,0 12.738,44.25,0 12.6802,44.3237,0 12.6667,44.3182,0 12.6667,44.3538,0 12.6785,44.3587,0 12.6715,44.3667,0 12.6715,44.3667,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+
+<Placemark>
+<name>A.C 26.EA</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=1013' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.2873,44.5667,0 12.4167,44.5667,0 12.4167,44.4667,0 12.4,44.4667,0 12.4,44.45,0 12.2953,44.45,0 12.291,44.4595,0 12.2868,44.4712,0 12.2848,44.4833,0 12.2857,44.4927,0 12.2823,44.4975,0 12.2823,44.502,0 12.2807,44.5113,0 12.2802,44.5165,0 12.2802,44.5255,0 12.2808,44.5348,0 12.2832,44.5457,0 12.2855,44.554,0 12.2873,44.5667,0 12.2873,44.5667,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>A.C 27.EA</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=1014' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.2953,44.45,0 12.4,44.45,0 12.4,44.4167,0 12.4167,44.4167,0 12.4167,44.3333,0 12.3382,44.3333,0 12.328,44.3515,0 12.327,44.3555,0 12.325,44.3587,0 12.3225,44.3747,0 12.3222,44.3833,0 12.2688,44.3833,0 12.2688,44.4167,0 12.3145,44.4167,0 12.3138,44.4197,0 12.3073,44.4288,0 12.302,44.4378,0 12.2953,44.4502,0 12.2953,44.45,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>A.C 28.EA</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=1015' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.4,44.3,0 12.5,44.3,0 12.5,44.2667,0 12.5167,44.2667,0 12.5167,44.2167,0 12.4333,44.2167,0 12.4333,44.2333,0 12.4,44.2333,0 12.4,44.3,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>A.C 29.EA</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=1016' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.4167,44.5333,0 12.4742,44.5333,0 12.5092,44.4167,0 12.4,44.4167,0 12.4,44.4667,0 12.4167,44.4667,0 12.4167,44.5333,0 12.4167,44.5333,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>A.C 30.EA</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=1017' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.4167,44.4167,0 12.507,44.4167,0 12.509,44.4127,0 12.5097,44.3983,0 12.5423,44.3,0 12.4167,44.3,0 12.4167,44.4167,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+
+
+
+
+
+<Placemark>
+<name>B.C  1.LF</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=954' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+14.55,42.2667,0 14.6333,42.2667,0 14.6333,42.25,0 14.7,42.25,0 14.7,42.2333,0 14.7167,42.2333,0 14.7167,42.1748,0 14.7148,42.1758,0 14.7142,42.1752,0 14.7135,42.1732,0 14.7125,42.1725,0 14.7107,42.1728,0 14.7103,42.1743,0 14.709,42.1748,0 14.7073,42.1735,0 14.702,42.1745,0 14.6972,42.176,0 14.6933,42.1782,0 14.6908,42.1783,0 14.689,42.1795,0 14.6878,42.1812,0 14.684,42.1807,0 14.6707,42.1847,0 14.6537,42.1902,0 14.6478,42.1932,0 14.6452,42.1933,0 14.6392,42.1945,0 14.6313,42.197,0 14.6295,42.1973,0 14.6163,42.2022,0 14.6002,42.208,0 14.5915,42.2123,0 14.5877,42.2137,0 14.5835,42.2168,0 14.578,42.2187,0 14.5735,42.2212,0 14.5657,42.225,0 14.5577,42.229,0 14.5502,42.2327,0 14.55,42.2675,0 14.55,42.2667,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>B.C  2.LF</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=957' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+13.8833,43.25,0 13.9178,43.25,0 13.9628,43.1653,0 13.9333,43.1567,0 13.9333,43.1667,0 13.9,43.1667,0 13.9,43.2,0 13.8833,43.2,0 13.8833,43.25,0 13.8833,43.25,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>B.C  3.AS</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=961' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+14.1833,43.0667,0 14.2333,43.0667,0 14.2333,42.9833,0 14.25,42.9833,0 14.25,42.9667,0 14.2833,42.9667,0 14.2833,42.95,0 14.3,42.95,0 14.3,42.9167,0 14.3167,42.9167,0 14.3167,42.8833,0 14.3,42.8833,0 14.3,42.8667,0 14.2167,42.8667,0 14.2167,42.85,0 14.2,42.85,0 14.2,42.8333,0 14.1833,42.8333,0 14.1833,42.8167,0 14.1333,42.8167,0 14.1333,42.8667,0 14.15,42.8667,0 14.15,42.8833,0 14.1667,42.8833,0 14.1667,42.9333,0 14.15,42.9333,0 14.15,42.9667,0 14.1667,42.9667,0 14.1667,43.05,0 14.1833,43.05,0 14.1833,43.0667,0 14.1833,43.0667,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>B.C  4.AS</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=962' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+13.9622,43.1667,0 14,43.1667,0 14,43.15,0 14.0167,43.15,0 14.0167,43.1333,0 14.05,43.1333,0 14.05,43.1167,0 14.1167,43.1167,0 14.1167,43.0667,0 14.0667,43.0667,0 14.0667,43.05,0 14.0167,43.05,0 14.0167,43.0667,0 13.95,43.0667,0 13.95,43.1,0 13.8833,43.1,0 13.8833,43.1423,0 13.9628,43.1653,0 13.9622,43.1667,0 13.9622,43.1667,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>B.C  5.AS</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=966' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+14.1167,42.6667,0 14.1667,42.6667,0 14.1667,42.65,0 14.1833,42.65,0 14.1833,42.6167,0 14.2,42.6167,0 14.2,42.6,0 14.2167,42.6,0 14.2167,42.5333,0 14.1457,42.5333,0 14.1358,42.5413,0 14.1282,42.5477,0 14.1217,42.5532,0 14.1167,42.5582,0 14.1167,42.6667,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>B.C  7.LF</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=968' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+13.704,43.35,0 13.8,43.35,0 13.8,43.3333,0 13.8333,43.3333,0 13.8333,43.3,0 13.85,43.3,0 13.85,43.2833,0 13.8667,43.2833,0 13.8667,43.2667,0 13.8833,43.2667,0 13.8833,43.2,0 13.9,43.2,0 13.9,43.1667,0 13.9332,43.1667,0 13.9333,43.1567,0 13.8312,43.127,0 13.8232,43.1397,0 13.8195,43.1457,0 13.8178,43.1495,0 13.8148,43.1565,0 13.8128,43.1605,0 13.8113,43.1637,0 13.8108,43.164,0 13.811,43.165,0 13.81,43.1653,0 13.809,43.1677,0 13.8065,43.1712,0 13.8045,43.1755,0 13.8025,43.1778,0 13.8,43.1833,0 13.7962,43.1917,0 13.7933,43.1988,0 13.7913,43.2028,0 13.7912,43.2042,0 13.7883,43.2107,0 13.7862,43.2188,0 13.7838,43.2248,0 13.7842,43.2273,0 13.7827,43.2287,0 13.7807,43.2342,0 13.78,43.2348,0 13.779,43.2352,0 13.7798,43.236,0 13.7758,43.241,0 13.7747,43.243,0 13.7692,43.2515,0 13.7653,43.2563,0 13.7643,43.2578,0 13.7625,43.261,0 13.7572,43.271,0 13.7562,43.274,0 13.7493,43.2898,0 13.745,43.2962,0 13.7373,43.3053,0 13.7342,43.3112,0 13.7343,43.3128,0 13.73,43.3137,0 13.7265,43.3162,0 13.7132,43.3353,0 13.7085,43.3435,0 13.704,43.35,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>B.C  8.LF</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=971' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+14.8667,42.3167,0 15,42.3167,0 15,42.3,0 15.0167,42.3,0 15.0167,42.2167,0 15.05,42.2167,0 15.05,42.2,0 15.0833,42.2,0 15.0833,42.15,0 15.0667,42.15,0 15.0667,42.1333,0 15.05,42.1333,0 15.05,42.1167,0 15.0333,42.1167,0 15.0333,42.0833,0 14.8833,42.0833,0 14.8833,42.1,0 14.8667,42.1,0 14.8667,42.3167,0 14.8667,42.3167,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>B.C  9.AS</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=973' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+14.2,42.8333,0 14.3333,42.8333,0 14.3333,42.7833,0 14.3167,42.7833,0 14.3167,42.6667,0 14.3,42.6667,0 14.3,42.65,0 14.2333,42.65,0 14.2333,42.6167,0 14.1833,42.6167,0 14.1833,42.65,0 14.1667,42.65,0 14.1667,42.6667,0 14.15,42.6667,0 14.15,42.7333,0 14.1833,42.7333,0 14.1833,42.8167,0 14.2,42.8167,0 14.2,42.8333,0 14.2,42.8333,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+
+
+
+
+
+
+<Placemark>
+<name>B.C 21.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=1007' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+13.9,43.1,0 13.95,43.1,0 13.95,43.0667,0 14.0167,43.0667,0 14.0167,43.05,0 14.0667,43.05,0 14.0667,43.0667,0 14.0833,43.0667,0 14.0833,43.0167,0 13.9333,43.0167,0 13.9333,43.0333,0 13.9167,43.0333,0 13.9167,43.05,0 13.9,43.05,0 13.9,43.1,0 13.9,43.1,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+
+
+
+<Placemark>
+<name>C.C  1.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=955' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+14.2258,37.068,0 14.2285,37.0688,0 14.2305,37.0692,0 14.2343,37.068,0 14.2423,37.067,0 14.2482,37.0642,0 14.253,37.063,0 14.2752,37.051,0 14.278,37.0497,0 14.2802,37.047,0 14.2897,37.0418,0 14.3082,37.0278,0 14.34,37.002,0 14.3637,36.977,0 14.328,36.9555,0 14.3052,36.968,0 14.1953,37.0222,0 14.2258,37.068,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>C.C  3.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=975' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+14.0167,37.1067,0 14.0213,37.1087,0 14.0278,37.1092,0 14.0437,37.1093,0 14.0537,37.1097,0 14.0533,37.1093,0 14.0573,37.1122,0 14.0627,37.1103,0 14.0712,37.1113,0 14.0938,37.1083,0 14.1268,37.1017,0 14.1322,37.0993,0 14.14,37.0997,0 14.1433,37.0985,0 14.1517,37.0978,0 14.1668,37.0938,0 14.1887,37.0858,0 14.1968,37.082,0 14.1997,37.0822,0 14.2258,37.068,0 14.1953,37.0222,0 14.3052,36.968,0 14.2833,36.9333,0 14.25,36.9333,0 14.25,36.9167,0 14.0897,36.9167,0 14.0833,36.9188,0 14.0633,36.9225,0 14.0462,36.9272,0 14.0322,36.9287,0 14.0167,36.928,0 14.0167,37.1067,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<name>C.C  6.EO</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=991' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+14.5833,36.6333,0 14.6167,36.6333,0 14.6167,36.6167,0 14.6333,36.6167,0 14.6333,36.6,0 14.6667,36.6,0 14.6667,36.5833,0 14.65,36.5833,0 14.65,36.5667,0 14.6333,36.5667,0 14.6333,36.55,0 14.7,36.55,0 14.7,36.4833,0 14.5833,36.4833,0 14.5833,36.5,0 14.55,36.5,0 14.55,36.5167,0 14.5167,36.5167,0 14.5167,36.5833,0 14.5333,36.5833,0 14.5333,36.6,0 14.5667,36.6,0 14.5667,36.6167,0 14.5833,36.6167,0 14.5833,36.6333,0 14.5833,36.6333,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Placemark>
+<name>CERVIA MARE</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=952' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.6745,44.3113,0 12.7208,44.2525,0 12.6773,44.2348,0 12.631,44.2937,0 12.6745,44.3113,0 12.6745,44.3113,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+
+
+
+<Placemark>
+<name>D.C  1.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=963' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+17.1333,39.15,0 17.1948,39.15,0 17.1973,39.1458,0 17.2058,39.1067,0 17.2125,39.0832,0 17.2195,39.0598,0 17.22,39.0377,0 17.2228,39.0333,0 17.1833,39.0333,0 17.1833,39.05,0 17.1667,39.05,0 17.1667,39.0667,0 17.15,39.0667,0 17.15,39.1,0 17.1333,39.15,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+<Placemark>
+<name>D.C  4.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=983' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+17.1113,39.1,0 17.15,39.1,0 17.15,39.0667,0 17.1667,39.0667,0 17.1667,39.05,0 17.1833,39.05,0 17.1833,39.0333,0 17.1795,39.0333,0 17.1797,39.0335,0 17.179,39.0338,0 17.1767,39.0335,0 17.1717,39.0353,0 17.1672,39.0388,0 17.1587,39.0418,0 17.1565,39.043,0 17.1557,39.0445,0 17.1522,39.0452,0 17.1473,39.0483,0 17.1468,39.0512,0 17.1445,39.0515,0 17.1407,39.0543,0 17.1408,39.0562,0 17.1382,39.0573,0 17.1343,39.0615,0 17.135,39.0638,0 17.1338,39.0647,0 17.1327,39.0682,0 17.132,39.0712,0 17.131,39.074,0 17.1315,39.077,0 17.1328,39.0773,0 17.1328,39.0785,0 17.1362,39.0805,0 17.1368,39.081,0 17.1375,39.0822,0 17.1373,39.084,0 17.1372,39.0843,0 17.1363,39.0847,0 17.1363,39.0843,0 17.1313,39.0853,0 17.1317,39.0867,0 17.1308,39.0868,0 17.1303,39.086,0 17.1273,39.0853,0 17.1202,39.0887,0 17.1148,39.093,0 17.1118,39.0978,0 17.1113,39.1,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+<Placemark>
+<name>F.C  1.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=998' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+17.1948,39.15,0 17.2333,39.15,0 17.2333,39.1167,0 17.25,39.1167,0 17.25,39.0333,0 17.2228,39.0333,0 17.22,39.0377,0 17.2195,39.0598,0 17.2125,39.0832,0 17.2058,39.1067,0 17.1973,39.1458,0 17.1948,39.15,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+<Placemark>
+<name>FASCIA CERVIA MARE</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=953' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+12.6792,44.3237,0 12.7378,44.249,0 12.6725,44.2225,0 12.6138,44.2972,0 12.6792,44.3237,0 12.6745,44.3113,0 12.7208,44.2525,0 12.6773,44.2348,0 12.631,44.2937,0 12.6745,44.3113,0 12.6792,44.3237,0 12.6792,44.3237,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+
+
+
+<Placemark>
+<name>G.C  1.AG</name>
+<description><![CDATA[<a href='http://unmig.mise.gov.it/unmig/titoli/dettaglio.asp?cod=1026' target=_new>Scheda di dettaglio</a>]]></description>
+<styleUrl>#poligoni</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+13.7,36.9833,0 13.7333,36.9833,0 13.7333,36.9667,0 13.8,36.9667,0 13.8,36.95,0 13.8667,36.95,0 13.8667,36.9,0 13.85,36.9,0 13.85,36.8833,0 13.8,36.8833,0 13.8,36.85,0 13.7333,36.85,0 13.7333,36.9,0 13.7,36.9,0 13.7,36.9833,0 
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Folder>
+</Document>
+</kml>
+
