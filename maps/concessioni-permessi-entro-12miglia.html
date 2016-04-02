@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
-    <title>Concessioni di coltivazione in mare entro le 12 miglia</title>
+    <title>Concessioni e permessi oggetto del referendum (in mare entro le 12 miglia)</title>
     <style>
       html, body {
         height: 100%;
@@ -21,7 +21,7 @@
 
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'));
-		  var urlkml = '${yourhosthere}/data/concessioni-coltivazioni-entro-12miglia.kml';
+		  var urlkml = '${yourhosthere}/data/concessioni-permessi-mare-entro-12miglia.kml';
         var ctaLayer = new google.maps.KmlLayer({
           url: urlkml,
           map: map
